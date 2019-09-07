@@ -22,7 +22,7 @@ private  SharedPreferences sps;
         {
             case R.id.button2:
                 SharedPreferences.Editor editor=sps.edit();
-                editor.putString("NAME","nice");
+                editor.putString("NAME","nicessssss");
                 editor.commit();
                 break;
             case R.id.button:
